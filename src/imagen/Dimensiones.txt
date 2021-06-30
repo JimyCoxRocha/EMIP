@@ -1,0 +1,2 @@
+-Vistos dentro de JTable = Centímetros 0,50 cm
+-ara lbl = 1 cm
